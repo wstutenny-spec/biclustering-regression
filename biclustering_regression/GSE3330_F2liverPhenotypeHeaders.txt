@@ -1,0 +1,25 @@
+Phenotype_Symbol	Desecription
+*gluc8	Fasting plasma glucose level at 8 weeks of age (mg/dl)
+*gluc10	Fasting plasma glucose level at 10 weeks of age (mg/dl)
+*wt8wk	Body weight at 8 weeks of age (gram)
+*wt10wk	Body weight at 10 weeks of age (gram)
+*ins8wk	Fasting plasma insulin level at 8 weeks of age (ng/ml)
+*ins10wk	Fasting plasma insulin level at 10 weeks of age (ng/ml)
+*logins8	Log10 transformed fasting plasma insulin level at 8 weeks of age
+*logins10	Log10 transformed fasting plasma insulin level at 10 weeks of age
+*trigly8	Fasting plasma triglyceride level at 8 weeks of age (mg/dl)
+*trigly10	Fasting plasma triglyceride level at10 weeks of age (mg/dl)
+*LiverTG	Liver triglyceride content (mg/g tissue)
+*bactin	Raw Ct numbers of beta-actin (M12481) measured by quatitative real-time RT-PCR
+*SCD1	Delta Ct numbers of stearoyl-CoA desaturase 1 (NM_009127) measured by quatitative real-time RT-PCR
+*FAS	Delta Ct numbers of fatty acid synthase (AF127033) measured by quatitative real-time RT-PCR
+*PPARg	Delta Ct numbers of peroxisome proliferator–activated receptor gamma (NM_011146) measured by quatitative real-time RT-PCR
+*GPAT	Delta Ct numbers of glycerol-3-phosphate acyltransferase (mitochondrial) (NM_008149) measured by quatitative real-time RT-PCR
+*PEPCK	Delta Ct numbers of phosphoenopyruvate carboxykinase (NM_011044 ) measured by quatitative real-time RT-PCR
+*SREBP1	Delta Ct numbers of sterol regulatory element binding protein 1 (AF374266) measured by quatitative real-time RT-PCR
+*ACO	Delta Ct numbers of peroxisomal acyl-CoA oxidase (AF006688) measured by quatitative real-time RT-PCR
+*PDI	Delta Ct numbers of protein disulfide isomerase (J05185) measured by quatitative real-time RT-PCR
+*UCP2	Delta Ct numbers of uncoupling protein 2 (U69135) measured by quatitative real-time RT-PCR
+*CPT1a	"Delta Ct numbers of carnitine palmitoyltransferase 1, liver (Cpt1a) (AF017175) measured by quatitative real-time RT-PCR"
+*CPT1b	"Delta Ct numbers of carnitine palmitoyltransferase 1, muscle (Cpt1b) (NM_009948) measured by quatitative real-time RT-PCR"
+*PLTP	Delta Ct numbers of phospholipid transfer protein (U28960) measured by quatitative real-time RT-PCR
