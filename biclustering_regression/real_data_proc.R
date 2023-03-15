@@ -70,6 +70,8 @@ asvab=asvab%>%mutate(GS=GS_pos+GS_neg,AR=AR_pos+AR_neg,WK=WK_pos+WK_neg,PC=PC_po
 summary(asvab)
 dim(na.omit(asvab))
 
+save(asvab,file="asvab.Rdata")
+
 
 
 
